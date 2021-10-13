@@ -1,0 +1,91 @@
+h1{
+    color: red;
+    text-align: center;
+    font-size: 38px;
+}
+#h222{
+    text-align: center;
+    margin: auto;
+}
+body{
+    position: relative;
+    background-color: whitesmoke;
+}
+#buttonR{
+    margin: auto;
+    width: 10%;
+    height: 6vh;
+    font-size: 24px;
+    border-radius: 10px;
+    background-color: sienna;
+    color: whitesmoke;
+    position: relative;
+    left: 45%;
+    top:20px;
+}
+.container{
+    width: 60vh;
+    height: 60vh;
+    display: flex;
+    justify-content: space-evenly;
+    margin: auto;
+    margin-top: 2%;
+    flex-wrap: wrap;
+}
+.casute{
+    width: 32%;
+    height: 32%;
+    text-align: center;
+    margin: auto;
+    background-color: white;
+}
+.X{
+    font-size: 3rem;
+    display: none;
+}
+.show{
+    font-size: 3rem;
+    margin-top: 5%;
+    display: block;
+    margin: auto;
+
+}
+.O{
+    font-size: 3rem;
+    display: none;
+}
+
+#patrat1{
+   
+    border-right: 5px solid black;
+    border-bottom: 5px solid black;
+}
+#patrat2{
+   
+    border-right: 5px solid black;
+    border-bottom: 5px solid black;
+}
+#patrat3{
+  
+    border-bottom: 5px solid black;
+}
+#patrat4{
+    border-bottom: 5px solid black;
+    border-right: 5px solid black;
+}
+#patrat5{
+    border-bottom: 5px solid black;
+    border-right: 5px solid black;
+}
+#patrat6{
+    border-bottom: 5px solid black;
+}
+#patrat7{
+    border-right: 5px solid black;
+}
+#patrat8{
+    border-right: 5px solid black;
+}
+#patrat9{
+    border: none;
+}
